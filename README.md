@@ -13,3 +13,4 @@ Instrucciones: debes probar el programa en ejecutando las parejas de sevlets con
   * Distinto navegador, distinto servlet
 
 Además, recargando la página en los controladores 3 y 4 puedes ver cómo afectan dinámicamente los incrementos de las variables en cada combinación. Y en cualquier momento puedes cerrar la sesión.
+Por último, el programa sirve de modelo de uso de log4j.
