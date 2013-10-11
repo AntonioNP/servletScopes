@@ -14,4 +14,6 @@ Instrucciones: debes probar el programa en ejecutando las parejas de sevlets con
 
 Además, recargando la página en los controladores 3 y 4 puedes ver cómo afectan dinámicamente los incrementos de las variables en cada combinación. Y en cualquier momento puedes cerrar la sesión.
 
+(Ojo: el parámetro servlet no es threat-safe)
+
 Por último, el programa también sirve de modelo de implementación de log4j.
